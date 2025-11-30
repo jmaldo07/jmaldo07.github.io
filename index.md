@@ -13,3 +13,4 @@ This lab was probably my favorite if not second favorite because it incorporated
 
 Lab 8, Part 2
 I know this part of the lab is kind of short and underwhelming because it is just showing a pattern but this has implications of a lot of things. Like text art, games, mazes, etc., but the main reason why I liked this lab is actually because the usage of nested for loops and trying to understand how the code works with barely knowing nested loops that well.
+    
