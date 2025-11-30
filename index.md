@@ -3,6 +3,8 @@
 
 I am a computer science major at CSUF and I plan on graduating by 2029
 
+My GitHub Page is https://github.com/jmaldo07.
+
 ## Favorite CPSC 120L Labs
 
 * Lab 6, Part 2
